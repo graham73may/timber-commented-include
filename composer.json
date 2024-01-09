@@ -1,5 +1,5 @@
 {
-	"name": "djboris88/timber-commented-include",
+	"name": "graham73may/timber-commented-include",
 	"description": "Twig extension for Timber which outputs HTML comments before and after the `include` tag",
 	"keywords": ["twig", "html", "comments", "debug"],
 	"homepage": "https://github.com/djboris88/timber-include-comments",
